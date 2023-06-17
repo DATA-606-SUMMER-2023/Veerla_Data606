@@ -72,7 +72,9 @@ Finding out the outliers in the features present in the data:
 
 
 ### Correlation among the numerical variables:
- 
+
+ ![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/1b2396ff-6847-4379-8b5c-fc28bb2d5f16)
+
 
 ### Techniques/Models:
 The below techniques are the models I am planning to use.
