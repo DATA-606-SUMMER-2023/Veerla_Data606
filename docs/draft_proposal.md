@@ -57,11 +57,16 @@ The variables/measures that will be used in the analysis include:
 16.	count - number of total rentals
 
 ### EDA for the dataset:
+
 **Structure of data:**
+
 ![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/b4a7028e-7992-4f42-8549-245eb1e57314)
  
 
 Finding out the outliers in the features present in the data:
+
+![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/57a82592-e3e0-4ccf-b312-1a970b8378d7)
+
  
 
 
