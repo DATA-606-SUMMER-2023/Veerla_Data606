@@ -2,10 +2,11 @@
 
 Presentation Link: 
 
-Youtube Link: 
+Youtube Link: https://youtu.be/B5-Oq2zgQ5E
 
-Introduction:
-Bike Share: The system that allows individuals to rent bikes for short trips on a pay-per-use basis.
+### Introduction:
+
+**Bike Share**: The system that allows individuals to rent bikes for short trips on a pay-per-use basis.
 
 Factors Influencing Bike Share Demand:
 
