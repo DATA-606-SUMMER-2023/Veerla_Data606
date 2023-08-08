@@ -21,5 +21,13 @@ This is a link to Test data
 
 
 Feature Engineering :
+Techniques/Models:
+The below techniques are the models I to evaluate the modelshave used . b) Regression analysis to determine the impact of factors like weather, time of day, and season on bike sharing demand. c) Clustering to identify areas with similar demand patterns. d) Predictive modeling using machine learning algorithms (e.g., Random Forest, Gradient Boosting) to forecast future bike sharing demand.
+
+Model Evaluation:
+The performance of the models will be evaluated using appropriate metrics based on the chosen techniques. For regression models, metrics like mean squared error (MSE) or R-squared can be used. For predictive models, metrics like root mean squared error (RMSE) or mean absolute error (MAE) can be employed. Cross-validation techniques can also be applied to assess the generalization capabilities of the models.
+
+Intended Outcomes:
+The primary outcome of this project is to gain a better understanding of the factors influencing bike-sharing demand and develop predictive analytics to forecast future demand. The results can inform decision-making for urban planners, bike sharing companies, and policymakers to optimize resource allocation, infrastructure planning, and improve overall transportation systems.
 
 
