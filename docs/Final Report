@@ -4,6 +4,22 @@ Presentation Link:
 
 Youtube Link: 
 
+Introduction:
+Bike Share: The system that allows individuals to rent bikes for short trips on a pay-per-use basis.
+
+Factors Influencing Bike Share Demand:
+
+Urbanization: The demand for bike share is higher in densely populated areas with shorter distances between destinations.
+
+Weather Conditions: Seasonal variations affect the demand for bike share, with better weather leading to increased usage.
+
+Infrastructure: Availability of bike lanes, bike parking facilities, and safe cycling routes positively impact demand.
+
+Time: Bike share experiences spikes in demand during work starting and closing hours.
+
+Public Awareness: Effective marketing and public awareness campaigns can boost usage.
+
+
 Issue of Interest:
 The issue of interest for this project is analyzing bike sharing demand in the context of ride-hailing apps such as Uber and Ola. Bike-sharing systems have become increasingly popular in urban areas as a sustainable mode of transportation, and this trend aligns with the goals of ride-hailing companies to provide convenient and eco-friendly travel options to their users.
 
@@ -19,10 +35,18 @@ This is a link to Train data
 
 This is a link to Test data
 
+Data Analysis of Bike share Demand:
+
+The boxplot with meaningful information is the Hour of the day because it shows the busiest hours are 7AM-8AM and 5 PM-6 PM, which means the users mainly rent bikes to ride to work/school and to return back home at the end of the day. Based on boxplots 4 and 5 (Working Day and Holiday), we see most outliers are in working days. The result makes sense when looking at holidays since all outliers are for non-holiday days. The last boxplot demonstrates the obvious common sense that most users rent bikes when the weather is Clear and Cloudy (1 and 2), and almost no users when is heavy raining or snowing (3).
+
+
 
 Feature Engineering :
 Techniques/Models:
-The below techniques are the models I to evaluate the modelshave used . b) Regression analysis to determine the impact of factors like weather, time of day, and season on bike sharing demand. c) Clustering to identify areas with similar demand patterns. d) Predictive modeling using machine learning algorithms (e.g., Random Forest, Gradient Boosting) to forecast future bike sharing demand.
+1.I have used Correlation matrix for feature selection.
+2.Removed the outliers from the selected features and target variable.
+3.Out of 55 columns, selected light code, weather code, surface condition code, event description 1, event description 2, road condition as features for training the model.
+Trained the model with different ML algorithms like Logistic regression, decision tree classifier, random forest classifier and gradient boosting methods.
 
 Model Evaluation:
 The performance of the models will be evaluated using appropriate metrics based on the chosen techniques. For regression models, metrics like mean squared error (MSE) or R-squared can be used. For predictive models, metrics like root mean squared error (RMSE) or mean absolute error (MAE) can be employed. Cross-validation techniques can also be applied to assess the generalization capabilities of the models.
