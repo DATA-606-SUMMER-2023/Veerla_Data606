@@ -26,6 +26,7 @@ The issue of interest for this project is analyzing bike sharing demand in the c
 
 Importance:
 Analyzing bike-sharing demand is important for several reasons. Firstly, it can aid urban planners and policymakers in designing efficient transportation networks. Secondly, bike-sharing companies can use this analysis to optimize fleet management, station placement, and pricing strategies. Lastly, studying bike-sharing demand patterns can provide insights into commuting habits, environmental impact, and public health.
+![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/de6940d8-bca3-42a4-b9fc-566dc836a2e5)
 
 These are the questions I am planning to answer after my project is completed: a) What are the key factors influencing bike-sharing demand? b) How does bike sharing demand vary across different times of the day, days of the week, and seasons? c) Can we predict future bike-sharing demand based on historical patterns and external factors? d) How do weather or other external factors impact bike-sharing demand?
 
