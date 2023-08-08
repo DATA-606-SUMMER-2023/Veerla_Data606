@@ -28,8 +28,6 @@ Importance:
 Analyzing bike-sharing demand is important for several reasons. Firstly, it can aid urban planners and policymakers in designing efficient transportation networks. Secondly, bike-sharing companies can use this analysis to optimize fleet management, station placement, and pricing strategies. Lastly, studying bike-sharing demand patterns can provide insights into commuting habits, environmental impact, and public health.
 
 
-![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/de6940d8-bca3-42a4-b9fc-566dc836a2e5)
-
 These are the questions my project is answering:
 
 
@@ -50,6 +48,9 @@ Data Analysis of Bike share Demand:
 
 The boxplot with meaningful information is the Hour of the day because it shows the busiest hours are 7AM-8AM and 5 PM-6 PM, which means the users mainly rent bikes to ride to work/school and to return back home at the end of the day. Based on boxplots 4 and 5 (Working Day and Holiday), we see most outliers are in working days. The result makes sense when looking at holidays since all outliers are for non-holiday days. The last boxplot demonstrates the obvious common sense that most users rent bikes when the weather is Clear and Cloudy (1 and 2), and almost no users when is heavy raining or snowing (3).
 
+
+
+![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/de6940d8-bca3-42a4-b9fc-566dc836a2e5)
 
 
 Feature Engineering :
