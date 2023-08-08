@@ -1,8 +1,21 @@
-# Final Report of Capstone Project on Bike Share Insights
+# Final Report of Capstone Project on Analyzing Bike Sharing Demand
 
 Presentation Link: 
 
 Youtube Link: 
 
-## Intoduction
+Issue of Interest:
+The issue of interest for this project is analyzing bike sharing demand in the context of ride-hailing apps such as Uber and Ola. Bike-sharing systems have become increasingly popular in urban areas as a sustainable mode of transportation, and this trend aligns with the goals of ride-hailing companies to provide convenient and eco-friendly travel options to their users.
+
+Importance:
+Analyzing bike-sharing demand is important for several reasons. Firstly, it can aid urban planners and policymakers in designing efficient transportation networks. Secondly, bike-sharing companies can use this analysis to optimize fleet management, station placement, and pricing strategies. Lastly, studying bike-sharing demand patterns can provide insights into commuting habits, environmental impact, and public health.
+
+These are the questions I am planning to answer after my project is completed: a) What are the key factors influencing bike-sharing demand? b) How does bike sharing demand vary across different times of the day, days of the week, and seasons? c) Can we predict future bike-sharing demand based on historical patterns and external factors? d) How do weather or other external factors impact bike-sharing demand?
+
+Data Sources:
+To analyze bike sharing demand, I am using data from the Kaggle data source and the size of the data is nearly 1Gb and 17380 rows with 12 features.
+
+This is a link to Train data
+
+This is a link to Test data
 
