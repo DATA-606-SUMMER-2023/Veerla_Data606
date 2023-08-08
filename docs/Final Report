@@ -45,13 +45,13 @@ Feature Engineering :
 Techniques/Models:
 1.I have used Correlation matrix for feature selection.
 2.Removed the outliers from the selected features and target variable.
-3.Out of 55 columns, selected light code, weather code, surface condition code, event description 1, event description 2, road condition as features for training the model.
-Trained the model with different ML algorithms like Logistic regression, decision tree classifier, random forest classifier and gradient boosting methods.
 
-Model Evaluation:
-The performance of the models will be evaluated using appropriate metrics based on the chosen techniques. For regression models, metrics like mean squared error (MSE) or R-squared can be used. For predictive models, metrics like root mean squared error (RMSE) or mean absolute error (MAE) can be employed. Cross-validation techniques can also be applied to assess the generalization capabilities of the models.
+3.The variables/measures that were used in the analysis datetime,season,holiday,workingday,weather,temp,atemp,humidity,windspeed,casual,registered,count.
+4.Trained the model with different ML algorithms like Linear Regression model, Random Forest Regressor model, Gradient Boosting Regressor model and Extreme Gradient Boost Regressor method.
+5 Extreme Gradient Boost model(XG Boost) has the least RMSE which is 0.08 (Root Mean Squared Logarithmic Error) we have chosen that one for our prediction and the accuracy for that is 97.1 %
 
-Intended Outcomes:
-The primary outcome of this project is to gain a better understanding of the factors influencing bike-sharing demand and develop predictive analytics to forecast future demand. The results can inform decision-making for urban planners, bike sharing companies, and policymakers to optimize resource allocation, infrastructure planning, and improve overall transportation systems.
+Conclusion:
+1.As we embrace the transformative power of Machine Learning for demand prediction, businesses can unlock new possibilities for operational efficiency and customer satisfaction.
+2.As cities strive to create cleaner, healthier, and more accessible environments, bike-share systems offer a remarkable solution.
 
 
