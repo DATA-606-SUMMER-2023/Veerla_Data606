@@ -1,6 +1,6 @@
 # Final Report of Capstone Project on Analyzing Bike Sharing Demand
 
-Presentation Link: 
+Presentation Link: https://github.com/vasavi0417/Veerla_Data606/blob/main/docs/Bike%20Share%20Insights%20690%20CapStone%20Project.pptx
 
 Youtube Link: https://youtu.be/B5-Oq2zgQ5E
 
