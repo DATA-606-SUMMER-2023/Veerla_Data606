@@ -37,6 +37,12 @@ This is a link to Train data
 
 This is a link to Test data
 
+
+[This is a link to Train data](https://github.com/harshitssj4/Kaggle-Bike-Sharing-Demand/blob/master/train.csv)
+
+[This is a link to Test data](https://github.com/harshitssj4/Kaggle-Bike-Sharing-Demand/blob/master/test.csv)
+
+
 ### Data Analysis of Bike share Demand:
 
 The boxplot with meaningful information is the Hour of the day because it shows the busiest hours are 7AM-8AM and 5 PM-6 PM, which means the users mainly rent bikes to ride to work/school and to return back home at the end of the day. Based on boxplots 4 and 5 (Working Day and Holiday), we see most outliers are in working days. The result makes sense when looking at holidays since all outliers are for non-holiday days. The last boxplot demonstrates the obvious common sense that most users rent bikes when the weather is Clear and Cloudy (1 and 2), and almost no users when is heavy raining or snowing (3).
