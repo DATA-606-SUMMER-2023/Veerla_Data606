@@ -54,6 +54,8 @@ These are the questions my project is answering:
 
 a) How does bike sharing demand vary across different times of the day, days of the week, and seasons?
 
+https://github.com/vasavi0417/Veerla_Data606/issues/6#issue-1842253424
+
 b) Can we predict future bike-sharing demand based on historical patterns and external factors? 
 
 c) How do weather or other external factors impact bike-sharing demand?
