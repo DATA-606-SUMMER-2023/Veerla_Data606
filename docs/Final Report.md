@@ -33,9 +33,6 @@ Analyzing bike-sharing demand is important for several reasons. Firstly, it can 
 ### Data Sources:
 To analyze bike sharing demand, I am using data from the Kaggle data source and the size of the data is nearly 1Gb and 17380 rows with 12 features.
 
-This is a link to Train data
-
-This is a link to Test data
 
 
 [This is a link to Train data](https://github.com/harshitssj4/Kaggle-Bike-Sharing-Demand/blob/master/train.csv)
