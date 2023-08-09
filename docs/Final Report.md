@@ -50,7 +50,7 @@ The boxplot with meaningful information is the Hour of the day because it shows 
 
 
 
-Bike sharing demand vary across different times of the day, days of the week, and seasons?
+Bike sharing demand vary across different times of the day, days of the week, and seasons
 
 ![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/3230bb12-0755-4007-9e2b-2c1e7bc5f7f3)
 
