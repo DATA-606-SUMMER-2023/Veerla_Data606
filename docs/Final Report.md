@@ -49,16 +49,11 @@ The boxplot with meaningful information is the Hour of the day because it shows 
 
 
 
-These are the questions my project is answering:
 
-
-a) How does bike sharing demand vary across different times of the day, days of the week, and seasons?
+Bike sharing demand vary across different times of the day, days of the week, and seasons?
 
 ![image](https://github.com/vasavi0417/Veerla_Data606/assets/42056699/3230bb12-0755-4007-9e2b-2c1e7bc5f7f3)
 
-b) Can we predict future bike-sharing demand based on historical patterns and external factors? 
-
-c) How do weather or other external factors impact bike-sharing demand?
 
 
 
