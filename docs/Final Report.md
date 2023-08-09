@@ -59,14 +59,19 @@ Bike sharing demand vary across different times of the day, days of the week, an
 
 ## Techniques/Models:
 1.I have used Correlation matrix for feature selection.
+
 2.Removed the outliers from the selected features and target variable.
 
 3.The variables/measures that were used in the analysis datetime,season,holiday,workingday,weather,temp,atemp,humidity,windspeed,casual,registered,count.
+
 4.Trained the model with different ML algorithms like Linear Regression model, Random Forest Regressor model, Gradient Boosting Regressor model and Extreme Gradient Boost Regressor method.
+
 5 Extreme Gradient Boost model(XG Boost) has the least RMSE which is 0.08 (Root Mean Squared Logarithmic Error) we have chosen that one for our prediction and the accuracy for that is 97.1 %
 
 ## Conclusion:
+
 1.As we embrace the transformative power of Machine Learning for demand prediction, businesses can unlock new possibilities for operational efficiency and customer satisfaction.
+
 2.As cities strive to create cleaner, healthier, and more accessible environments, bike-share systems offer a remarkable solution.
 
 
